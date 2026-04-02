@@ -134,8 +134,8 @@ export const photos = [
     span: "col-span-1 row-span-2",
   },
   {
-    src: "/photos/jus4.png",
-    alt: "Jus tonic \u00e9nergisant",
+    src: "/photos/jus5.png",
+    alt: "Jus d\u00e9tox",
     span: "col-span-2 row-span-1",
   },
 ];
